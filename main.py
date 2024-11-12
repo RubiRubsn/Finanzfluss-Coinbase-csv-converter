@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 
 # Eingabedatei und Ausgabedatei festlegen
-input_file = "input3.csv"
+input_file = "input.csv"
 output_file = "output.csv"
 
 # CSV-Datei einlesen und überspringen der ersten beiden Zeilen
